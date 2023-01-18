@@ -1,4 +1,4 @@
-# NUCLEO-H755ZI-Q TCP Echo Server
+# NUCLEO-H755ZI-Q- USB-OTG CDC
 
 ## 硬體連接方式
 
